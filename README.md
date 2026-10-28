@@ -2,7 +2,6 @@
 
 > **"Explore the World. Discover Cultures. Powered by AI & Global Telemetry."**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.0%2B-black.svg)](https://flask.palletsprojects.com/)
 [![Gemini AI](https://img.shields.io/badge/Google_Gemini-1.5_Flash-8E75C2.svg)](https://ai.google.dev/)
@@ -130,6 +129,5 @@ tests/test_app.py::test_country_endpoint_valid PASSED
 
 ---
 
-## 📄 License
+## 📄 License and Copyright\n\nAll rights reserved © 2026 Chakradhar Buridi.
 
-MIT License © 2026 Chakradhar Buridi. Built with pride for open-source AI and geographical discovery.
